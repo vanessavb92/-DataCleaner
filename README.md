@@ -3,6 +3,13 @@
 Uma Ferramenta React para Limpeza e Transformação de Dados
 DataCleaner é uma aplicação React intuitiva e poderosa projetada para facilitar a limpeza, transformação e preparação de dados para análise. Com uma interface amigável e recursos flexíveis, DataCleaner permite que usuários de todos os níveis de experiência manipulem seus dados de forma eficiente, economizando tempo e garantindo a qualidade dos dados para análises posteriores.
 
+<div align="center">
+
+![datacleaner](./data-cleaner/img/1.png)
+
+</div>
+
+
 Funcionalidades Principais
 Carregamento de Dados:
 
